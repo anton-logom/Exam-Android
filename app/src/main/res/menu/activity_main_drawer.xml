@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_repos"
+            android:icon="@drawable/menu_repos"
+            android:title="Репозитории Git" />
+        <item
+            android:id="@+id/nav_maps"
+            android:icon="@drawable/menu_maps"
+            android:title="Карта" />
+        <item
+            android:id="@+id/nav_contacts"
+            android:icon="@drawable/menu_contacts"
+            android:title="Контакты" />
+        <item
+            android:id="@+id/nav_information"
+            android:icon="@drawable/menu_information"
+            android:title="О телефоне" />
+        <item
+            android:id="@+id/nav_sensor"
+            android:icon="@drawable/menu_sensor"
+            android:title="Камера и датчики" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/menu_logout"
+            android:title="Выйти" />
+    </group>
+
+
+</menu>

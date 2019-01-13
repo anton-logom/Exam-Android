@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Экзамен ТРМП</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="network_error_message">Network error</string>
+    <string name="remote_error_message">Remote server error</string>
+    <string name="unknown_error_message">Unknown error</string>
+
+    <string name="github">GitHub</string>
+    <string name="logo">LOGO</string>
+    <string name="photo_from_camera">Photo from camera</string>
+    <string name="login">Login</string>
+    <string name="github_url">Github url</string>
+
+    // Personal information
+    <string name="api_map_key">2c3d0706-8a97-4423-92e8-e2aca0e60d9f</string>
+    <string name="client_secret">13f887e218deecd8a712a487e1aeda6bdec68c98</string>
+
+
+</resources>
